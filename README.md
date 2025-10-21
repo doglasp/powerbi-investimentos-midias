@@ -49,6 +49,7 @@ O objetivo deste dashboard é oferecer uma visão consolidada sobre **como os re
 
 ## 🧱 Estrutura do Repositório
 
+```
 📂 powerbi-investimentos-midias/
 │
 ├── 📄 README.md
@@ -62,7 +63,7 @@ O objetivo deste dashboard é oferecer uma visão consolidada sobre **como os re
 | └── KPIs_principais.png
 ├── 📁 docs/
 │ └── Relatório Desempenho de Campanhas – 2023 e 2024.pdf
-
+```
 
 ---
 
