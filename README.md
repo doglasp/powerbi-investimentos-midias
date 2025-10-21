@@ -96,4 +96,4 @@ Analista de Dados
 
 ## 🪪 Licença
 
-Este projeto é distribuído sob a [Licença MIT](LICENSE).
+Este projeto é distribuído sob a [Licença MIT](LICENSE.txt).
